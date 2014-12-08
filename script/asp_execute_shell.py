@@ -7,7 +7,7 @@ import sys
 from time import localtime
 from time import strftime
 #############################
-#php eval/assert shell scan payload
+#Asp execute shell scan payload
 #############################
 class Myscan():
 #
