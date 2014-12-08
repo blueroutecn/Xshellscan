@@ -1,2 +1,2 @@
-a webshell scanner called Xshellscan
-#code by jusker
+#a webshell scanner called Xshellscan
+code by jusker
